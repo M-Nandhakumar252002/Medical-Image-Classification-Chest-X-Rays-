@@ -3,7 +3,7 @@
 ##  Objective
 Build a deep learning model to classify chest X-ray images into **Normal** and **Pneumonia** classes.
 
-## 🛠 Tools & Skills
+##  Tools & Skills
 - Python, TensorFlow/Keras
 - Image Preprocessing (resizing, normalization, augmentation)
 - Convolutional Neural Networks (CNNs)
@@ -19,7 +19,7 @@ Build a deep learning model to classify chest X-ray images into **Normal** and *
 3. Evaluate accuracy, precision, recall, F1.
 4. Apply **Grad-CAM** to visualize which parts of the lung influenced predictions.
 
-## 📊 Expected Output
+##  Expected Output
 - Classification accuracy > 80%.
 - Visualizations showing CNN attention maps.
 
